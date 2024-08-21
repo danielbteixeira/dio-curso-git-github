@@ -1,24 +1,60 @@
+<h1>Versionamento de Código com Git e GitHub</h1>
 
-# Dio | Resumos Git e Github
+## Objetivo do curso
+Oferecer uma introdução sobre versionamento de código com Git e GitHub.
 
-Repositório para armazenar resumos sobre Git e Github do curso Versionamento de código com  Git e Github da [Digital Innovation One](https://www.dio.me/).
+## Ferramentas
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://docs.github.com/)
+<br>
 
-Alteração simples para teste
-
-## 📚 Documentação
-- [Documentação Git](https://git-scm.com/doc)
-- [Documentação Github](https://docs.github.com/pt)
-
-## 💻 Resumos das aulas
-
-| Aulas | Resumos |
-|-------|---------|
-| Gravando alterações no repositório local | [Resumos]() |
-
-```
-git init 
-```
-
-## 🔎 Referências
-- [Digital Innovation One](https://www.dio.me/).
+## Etapas
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Etapas</th>
+      <th>Materiais de Apoio</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Visão Geral do Curso e Ferramentas</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Instalação, Configuração e Autenticação</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Primeiros Passos com Git e GitHub</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Dicas e Materiais de Apoio</td>
+      <td align="center">
+        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
 
